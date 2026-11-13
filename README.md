@@ -67,3 +67,7 @@ paste into `EVENTS.md`. Both print the same output on every run.
 
 See the Lab 11 handout on the course page for the three milestones you show a
 TA.
+
+## Tools used
+
+Completed with OpenAI Codex (GPT-5), using the terminal and GitHub web interface.
